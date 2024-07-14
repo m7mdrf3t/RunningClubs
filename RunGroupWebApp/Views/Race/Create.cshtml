@@ -1,0 +1,56 @@
+﻿@using RunGroupWebApp.Data;
+@using RunGroupWebApp.ViewModels  
+@model CreateRaceViewModel
+
+@{
+
+}
+
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <input type="hidden" id="AppUserId" name="AppUserId" asp-for="AppUserId" />
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Title">
+        <span asp-validation-for="Title" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Descrption">
+        <span asp-validation-for="Description" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Image">Image</label>
+        <input asp-for="Image" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Image URL">
+        <span asp-validation-for="Image" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="address.City">City</label>
+        <input asp-for="address.City" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter address City">
+        <span asp-validation-for="Image" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="address.Street">Street</label>
+        <input asp-for="address.Street" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter address street">
+        <span asp-validation-for="address.Street" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="address.state">State</label>
+        <input asp-for="address.state" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter address state">
+        <span asp-validation-for="address.state" class="text-danger"> </span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="clubCategory">Category</label>
+        <select asp-for="clubCategory" asp-items="@Html.GetEnumSelectList<RaceCategory>()">
+            <option>--Select-- </option>
+        </select>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

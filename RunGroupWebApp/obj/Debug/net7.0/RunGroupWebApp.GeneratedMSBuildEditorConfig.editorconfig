@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RunGroupWebApp
+build_property.RootNamespace = RunGroupWebApp
+build_property.ProjectDir = /Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Club/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Club/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Club/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Club/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Club/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Race/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Race/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Race/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Race/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/User/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/User/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mohamedhafez.isobar.com/Projects/RunGroupWebApp/RunGroupWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dvl3tenoss
